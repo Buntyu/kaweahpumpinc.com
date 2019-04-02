@@ -1,0 +1,13 @@
+[14-Mar-2019 05:53:01 UTC] PHP Fatal error:  Call to a member function getErrorText() on null in /data00/kaweahpumpinc/public_html/autherize/index.php on line 30
+[14-Mar-2019 05:56:02 UTC] PHP Fatal error:  Call to a member function getErrorText() on null in /data00/kaweahpumpinc/public_html/autherize/index.php on line 30
+[14-Mar-2019 05:58:03 UTC] PHP Warning:  require_once(DBController.php): failed to open stream: No such file or directory in /data00/kaweahpumpinc/public_html/autherize/index.php on line 38
+[14-Mar-2019 05:58:03 UTC] PHP Fatal error:  require_once(): Failed opening required 'DBController.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /data00/kaweahpumpinc/public_html/autherize/index.php on line 38
+[14-Mar-2019 06:08:16 UTC] PHP Warning:  require_once(DBController.php): failed to open stream: No such file or directory in /data00/kaweahpumpinc/public_html/autherize/index.php on line 38
+[14-Mar-2019 06:08:16 UTC] PHP Fatal error:  require_once(): Failed opening required 'DBController.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /data00/kaweahpumpinc/public_html/autherize/index.php on line 38
+[14-Mar-2019 06:12:43 UTC] PHP Fatal error:  Call to a member function getErrorText() on null in /data00/kaweahpumpinc/public_html/autherize/index.php on line 30
+[14-Mar-2019 06:14:23 UTC] PHP Fatal error:  Undefined class constant 'LIVE' in /data00/kaweahpumpinc/public_html/autherize/AuthorizeNetPayment.php on line 68
+[14-Mar-2019 06:29:50 UTC] PHP Warning:  require_once(DBController.php): failed to open stream: No such file or directory in /data00/kaweahpumpinc/public_html/autherize/index.php on line 38
+[14-Mar-2019 06:29:50 UTC] PHP Fatal error:  require_once(): Failed opening required 'DBController.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /data00/kaweahpumpinc/public_html/autherize/index.php on line 38
+[14-Mar-2019 06:41:37 UTC] PHP Warning:  require_once(DBController.php): failed to open stream: No such file or directory in /data00/kaweahpumpinc/public_html/autherize/index.php on line 40
+[14-Mar-2019 06:41:37 UTC] PHP Fatal error:  require_once(): Failed opening required 'DBController.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /data00/kaweahpumpinc/public_html/autherize/index.php on line 40
+[14-Mar-2019 06:46:56 UTC] PHP Fatal error:  Call to undefined function Redirect() in /data00/kaweahpumpinc/public_html/autherize/index.php on line 25
